@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @ErmanKrclk
 - 👀 I’m interested in informatic
 - 🌱 I’m currently learning using github 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on a gay
+- 📫 How to reach me gay
+- 😄 Pronouns: gay
+- ⚡ Fun fact: gay
 
 <!---
 ErmanKrclk/ErmanKrclk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
