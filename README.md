@@ -4,7 +4,7 @@ Actually studying for a University Bachelor of Technology at the University Inst
 
 ### About me 
 
-- I'm interested by **AI Machine Learning, Networking, Computer Network, Network Security**
+- I'm interested by **AI Machine Learning, Networking, Computer Network, Network Security, Hardware enthusiast**
 - Fun fact : **I also like human science 🧠**
 
 ### 🛠️ Stack & Technologies
